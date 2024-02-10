@@ -31,6 +31,6 @@ After setting up your environment, you can begin exploring the geospatial functi
 
 ##Learn More
 
-For a comprehensive guide and examples on how to use and extend this project, check out our Medium article: Geo-Chat-Tutorial: Integrating Geospatial Functions with ChatGPT.
+For a comprehensive guide and examples on how to use and extend this project, check out our Medium article: [Geospatial Function Calling with ChatGPT](https://medium.com/@gisjohnecs/geospatial-function-calling-with-chatgpt-7cd57cc4a341)https://medium.com/@gisjohnecs/geospatial-function-calling-with-chatgpt-7cd57cc4a341
 
 Happy Coding!
